@@ -23,4 +23,4 @@ Talk to me about
 I am not alone, because alone is always with me'.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ir001&hide=["issues"]&show_icons=true)
-![Wakatime stats](<figure><embed src="https://wakatime.com/share/@irwanantonio/50b66c6a-a755-43ae-b027-3d92ab6058e7.svg"></embed></figure>)
+![Wakatime stats](https://wakatime.com/share/@irwanantonio/50b66c6a-a755-43ae-b027-3d92ab6058e7.svg)
