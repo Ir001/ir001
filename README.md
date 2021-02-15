@@ -12,11 +12,9 @@ Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap, Tailwind, ReactJS**
 - Backend development using **Code Igniter, Laravel**
 - Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
 - Mobile application development using **React Native** (Still learning)
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Irwan Antonio](https://medium.com/@irwanantonio)
 - 🎯 Portfolio site: [Portfolio](https://ir001.github.io)
 - 🔔 Subscribe:- [Irwan Antonio](https://www.youtube.com/channel/UCDibJa5wDSEHgV6QlvCDKog)
 - ⚡ Favorite Quotes: '
