@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📝 I regularly write articles on [medium.com/@irwanantonio](medium.com/@irwanantonio)
+- 📝 I regularly write articles on [medium.com/@irwanantonio](https://www.medium.com/@irwanantonio)
 
 - 💬 Ask me about **CodeIgniter, Laravel, PHP**
 
