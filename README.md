@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irwan Antonio</h1>
-<h3 align="center">A passionate full stack web developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ir001&label=Profile%20views&color=0e75b6&style=flat" alt="ir001" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/hjkwz" target="blank"><img src="https://img.shields.io/twitter/follow/hjkwz?logo=twitter&style=for-the-badge" alt="hjkwz" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS, React Native, Arduino**
 
 - 📝 I regularly write articles on [medium.com/@irwanantonio](https://www.medium.com/@irwanantonio)
 
-- 💬 Ask me about **CodeIgniter, Laravel, PHP**
+- 💬 Ask me about **CodeIgniter, Laravel, PHP, Java**
 
 - 📫 How to reach me **irwanantonio2708@gmail.com**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hjkwz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hjkwz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/irwan-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="irwan-antonio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irwan-antonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irwan-antonio" height="30" width="40" /></a>
 <a href="https://fb.com/ir001.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ir001.id" height="30" width="40" /></a>
 </p>
 
