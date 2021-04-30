@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **irwanantonio2708@gmail.com**
 
-- 📄 Know about my experiences [ir001.github.com](ir001.github.com)
+- 📄 Know about my experiences [ir001.github.io](https://ir001.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
