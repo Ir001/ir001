@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ir001&label=Profile%20views&color=0e75b6&style=flat" alt="ir001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ir001" alt="ir001" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ir001" alt="ir001" /></p>
 
 <p align="left"> <a href="https://twitter.com/hjkwz" target="blank"><img src="https://img.shields.io/twitter/follow/hjkwz?logo=twitter&style=for-the-badge" alt="hjkwz" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **CodeIgniter, Laravel, PHP, Java**
 
-- 📫 How to reach me **irwanantonio2708@gmail.com**
+- 📫 How to reach me **[irwanantonio2708@gmail.com](mailto:irwanantonio2708@gmail.com)**
 
 - 📄 Know about my experiences [ir001.github.io](https://ir001.github.io)
 
