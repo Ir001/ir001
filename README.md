@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ir001&label=Profile%20views&color=0e75b6&style=flat" alt="ir001" /> </p>
 
-<p align="left"> <a href="https://ir001.github.io" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=ir001" alt="ir001" /></a></p>
+<!--<p align="left"> <a href="https://ir001.github.io" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=ir001" alt="ir001" /></a></p> -->
 
 <p align="left"> <a href="https://twitter.com/hjkwz" target="blank"><img src="https://img.shields.io/twitter/follow/hjkwz?logo=twitter&style=for-the-badge" alt="hjkwz" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, React Native, Arduino**
-
-- 📝 I regularly write articles on [medium.com/@irwanantonio](https://www.medium.com/@irwanantonio)
-
-- 💬 Ask me about **CodeIgniter, Laravel, PHP, Java**
 
 - 📫 How to reach me **[irwanantonio2708@gmail.com](mailto:irwanantonio2708@gmail.com)**
 
@@ -29,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ir001&show_icons=true&locale=en&layout=compact" alt="ir001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ir001&show_icons=true&locale=en" alt="ir001" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ir001&show_icons=true&locale=en" alt="ir001" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ir001&" alt="ir001" /></p>
