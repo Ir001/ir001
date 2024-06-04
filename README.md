@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irwan Antonio</h1>
-- 📫 How to reach me **[irwanantonio2708@gmail.com](mailto:irwanantonio2708@gmail.com)**
-- 📄 Know about my experiences [ir001.github.io](https://ir001.github.io)
+📄 Know about my experiences <a href="https://ir001.github.io">ir001.github.io</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hjkwz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hjkwz" height="30" width="40" /></a>
